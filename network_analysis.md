@@ -3,10 +3,9 @@
 ---
 
 ## 🔎 Summary  
-- **Total Packets Analyzed:** ~2400  
+- **Total Packets Analyzed:** 3893  
 - **Protocols Observed:** DHCP, DNS, STP, CDP, SNMP, HSRP, NTP  
-- **Key IPv4 Range:** 192.168.x.x (local lab traffic)  
-- **Key IPv6 Range:** 2003:51:6012:110::/64  
+
 - **Focus Areas:** Device discovery, DHCP requests, STP topology changes, HSRP redundancy, SNMP queries  
 
 ---
